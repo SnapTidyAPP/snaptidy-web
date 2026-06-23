@@ -17,6 +17,8 @@ Replace `YOUR_GITHUB_USERNAME` and `YOUR_REPO_NAME` after GitHub Pages is enable
 - Marketing URL: `https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/`
 - Privacy Policy URL (Chinese): `https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/privacy.html`
 - Privacy Policy URL (English): `https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/privacy-en.html`
+- Privacy Policy URL (Spanish): `https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/privacy-es.html`
+- Privacy Policy URL (Japanese): `https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/privacy-ja.html`
 - Terms of Use (Chinese): `https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/terms.html`
 - Terms of Use (English): `https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/terms-en.html`
 - Support URL: `https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/`
